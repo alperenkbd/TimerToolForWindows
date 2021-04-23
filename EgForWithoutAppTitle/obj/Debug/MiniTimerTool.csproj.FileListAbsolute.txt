@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\EgForWithoutAppTitle\EgForWithoutAppTitle\bin\Debug\EgForWithoutAppTitle.exe.config
+C:\Users\ASUS\source\repos\EgForWithoutAppTitle\EgForWithoutAppTitle\bin\Debug\EgForWithoutAppTitle.exe
+C:\Users\ASUS\source\repos\EgForWithoutAppTitle\EgForWithoutAppTitle\bin\Debug\EgForWithoutAppTitle.pdb
+C:\Users\ASUS\source\repos\EgForWithoutAppTitle\EgForWithoutAppTitle\obj\Debug\EgForWithoutAppTitle.Form1.resources
+C:\Users\ASUS\source\repos\EgForWithoutAppTitle\EgForWithoutAppTitle\obj\Debug\EgForWithoutAppTitle.Properties.Resources.resources
+C:\Users\ASUS\source\repos\EgForWithoutAppTitle\EgForWithoutAppTitle\obj\Debug\MiniTimerTool.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\EgForWithoutAppTitle\EgForWithoutAppTitle\obj\Debug\MiniTimerTool.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\EgForWithoutAppTitle\EgForWithoutAppTitle\obj\Debug\EgForWithoutAppTitle.exe
+C:\Users\ASUS\source\repos\EgForWithoutAppTitle\EgForWithoutAppTitle\obj\Debug\EgForWithoutAppTitle.pdb
